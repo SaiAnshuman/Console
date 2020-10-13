@@ -1,9 +1,8 @@
 console.log("Hey This Is My Console Project :D");
 
-var first = "Mine";
-var second = "Craft";
-var joined = first + second;
-console.log(joined);
+
+
+
 
 var number1 = "4";
 var number2 = "1";
