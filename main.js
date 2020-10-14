@@ -4,8 +4,8 @@ console.log("Hey This Is My Console Project :D");
 
 
 
-var number1 = "4";
-var number2 = "1";
+var number1 = 4;
+var number2 = 1;
 var addition = number1 + number2;
 var subtraction = number1 - number2;
 var multiplication = number1 * number2;
