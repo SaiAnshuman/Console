@@ -3,7 +3,12 @@ console.log("Hey This Is My Console Project :D");
 
 
 
-concat("Mine","Craft");
+var a = "Mine"
+var b = "Craft"
+var c = a.concat(b);
+console.log(a);
+console.log(b);
+console.log(c);
 var number1 = 4;
 var number2 = 1;
 var addition = number1 + number2;
